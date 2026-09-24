@@ -41,3 +41,5 @@ Print as string
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8542b49f-ad15-4b78-8173-65bc021c6184" />
 Compare instances
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f65cabc3-a880-4ba6-aca2-6da33d4fcdaf" />
+Copy instance
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9b2c4e8f-78e8-4ef2-bcfe-78686cb26778" />
