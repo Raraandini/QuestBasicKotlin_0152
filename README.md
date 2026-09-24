@@ -49,3 +49,5 @@ Check for null values
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c0039cb8-fbf8-4772-8f20-c072b7966ecc" />
 Use safe calls
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c8da4fe1-5bee-4056-a5a5-c0da9694ca29" />
+Use Elvis operator
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/1ab33fde-f357-4298-b363-7ff3aa1cbb78" />
