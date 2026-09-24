@@ -27,3 +27,5 @@ Named Arguments
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b30263a5-2905-4e6c-8882-2c704ec9be9a" />
 Default parameter values
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f8339b0a-a1d2-451e-8e8e-912d5b505b45" />
+Functions without return
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89d7c0ad-0a04-4af3-9503-bbd8a4e8844b" />
