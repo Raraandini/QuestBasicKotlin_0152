@@ -23,3 +23,5 @@ for
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0289e85c-d74a-4247-b8d6-f13182f1c0ff" />
 functions
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/206064d9-217e-4e0d-bfee-ff0997a53486" />
+Named Arguments
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b30263a5-2905-4e6c-8882-2c704ec9be9a" />
