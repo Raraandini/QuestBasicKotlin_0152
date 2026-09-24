@@ -45,5 +45,7 @@ Copy instance
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9b2c4e8f-78e8-4ef2-bcfe-78686cb26778" />
 Nullable types
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f53d20b8-ec6a-41e4-913e-bbe5c49d22da" />
+Check for null values
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c0039cb8-fbf8-4772-8f20-c072b7966ecc" />
 Use safe calls
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c8da4fe1-5bee-4056-a5a5-c0da9694ca29" />
