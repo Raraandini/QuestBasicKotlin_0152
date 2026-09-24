@@ -29,3 +29,5 @@ Default parameter values
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f8339b0a-a1d2-451e-8e8e-912d5b505b45" />
 Functions without return
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89d7c0ad-0a04-4af3-9503-bbd8a4e8844b" />
+Lambda expression
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/dbe7fd52-7687-4e59-9dce-3d914ff4e598" />
