@@ -10,3 +10,11 @@ Set
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2e5dfed7-b484-40cc-b7f1-108bca93d8c1" />
 Map 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/61f5447a-d2ca-48ad-9242-d20f90e4155e" />
+Conditional Expression 
+IF 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/947a076c-2cf8-476e-85db-671170be8e87" />
+When
+Contoh 1
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2dd26257-3dba-464a-9574-4d42cacbcfd1" />
+Contoh 2
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/886a1d2e-597e-4db4-85a9-ca301c3ddd37" />
