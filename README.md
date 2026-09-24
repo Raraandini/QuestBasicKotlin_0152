@@ -35,3 +35,5 @@ Create instance
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/15847ca4-d351-4b72-8a99-777592b67123" />
 Access properties
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f17551d4-0a99-4d2a-9095-31e546a58946" />
+Member functions
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4563a760-334a-4a9b-a28f-51169a8f87fb" />
