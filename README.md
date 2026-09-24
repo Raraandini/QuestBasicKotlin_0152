@@ -25,3 +25,5 @@ functions
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/206064d9-217e-4e0d-bfee-ff0997a53486" />
 Named Arguments
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b30263a5-2905-4e6c-8882-2c704ec9be9a" />
+Default parameter values
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f8339b0a-a1d2-451e-8e8e-912d5b505b45" />
