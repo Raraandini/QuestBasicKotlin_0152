@@ -18,3 +18,8 @@ Contoh 1
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2dd26257-3dba-464a-9574-4d42cacbcfd1" />
 Contoh 2
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/886a1d2e-597e-4db4-85a9-ca301c3ddd37" />
+Loops
+for
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0289e85c-d74a-4247-b8d6-f13182f1c0ff" />
+functions
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/206064d9-217e-4e0d-bfee-ff0997a53486" />
