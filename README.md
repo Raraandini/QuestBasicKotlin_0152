@@ -33,3 +33,5 @@ Lambda expression
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/dbe7fd52-7687-4e59-9dce-3d914ff4e598" />
 Create instance
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/15847ca4-d351-4b72-8a99-777592b67123" />
+Access properties
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f17551d4-0a99-4d2a-9095-31e546a58946" />
