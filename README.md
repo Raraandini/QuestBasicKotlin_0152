@@ -31,3 +31,5 @@ Functions without return
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89d7c0ad-0a04-4af3-9503-bbd8a4e8844b" />
 Lambda expression
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/dbe7fd52-7687-4e59-9dce-3d914ff4e598" />
+Create instance
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/15847ca4-d351-4b72-8a99-777592b67123" />
